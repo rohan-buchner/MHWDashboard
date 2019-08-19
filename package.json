@@ -3,7 +3,7 @@
     "angular-mocks": "^1.6.3",
     "autoprefixer": "^6.2.3",
     "bower": "^1.7.9",
-    "browser-sync": "^2.18.0",
+    "browser-sync": "^2.18.7",
     "browser-sync-spa": "^1.0.3",
     "del": "^2.0.2",
     "es6-shim": "^0.35.0",
